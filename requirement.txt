@@ -1,0 +1,6 @@
+python-docx
+PyMuPDF
+openai
+tiktoken
+langchain
+python-dotenv

@@ -1,0 +1,16 @@
+{
+  "total_quizzes": 2,
+  "topics": {
+    "Cricket Regulations in India": 2
+  },
+  "difficulties": {
+    "Intermediate": 2
+  },
+  "question_types": {
+    "mcq": 2,
+    "true_false": 2,
+    "matching": 2,
+    "fill_blank": 2
+  },
+  "generation_timestamp": "2025-08-11T22:06:11.947216"
+}

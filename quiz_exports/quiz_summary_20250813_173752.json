@@ -1,0 +1,17 @@
+{
+  "total_quizzes": 3,
+  "topics": {
+    "Cricket in India": 2,
+    "Indian Cricket": 1
+  },
+  "difficulties": {
+    "Intermediate": 3
+  },
+  "question_types": {
+    "mcq": 3,
+    "true_false": 3,
+    "matching": 3,
+    "fill_blank": 3
+  },
+  "generation_timestamp": "2025-08-13T17:37:52.503664"
+}

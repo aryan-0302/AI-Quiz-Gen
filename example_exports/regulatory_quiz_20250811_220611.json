@@ -1,0 +1,96 @@
+[
+  {
+    "topic": "Cricket Regulations in India",
+    "difficulty": "Intermediate",
+    "mcq": {
+      "question": "Which stadium in Ahmedabad, Gujarat was renamed as Narendra Modi Stadium?",
+      "options": [
+        "Eden Gardens",
+        "Wankhede Stadium",
+        "Feroz Shah Kotla Stadium",
+        "Sardar Patel Stadium"
+      ],
+      "correct_answer": "option d",
+      "explanation": "The Sardar Patel Stadium in Ahmedabad, Gujarat was renamed as Narendra Modi Stadium."
+    },
+    "true_false": {
+      "question": "The governing body for cricket in India is the Board of Control for Cricket in India (BCCI).",
+      "correct_answer": "True",
+      "explanation": "Correct. BCCI is the governing body for cricket in India."
+    },
+    "matching": {
+      "question": "Match the following national team(s) with their respective category: India U-19 Men, India A Women, India Women, India A Men",
+      "pairs": [
+        {
+          "term": "India U-19 Men",
+          "definition": "Under-19 Men's National Team"
+        },
+        {
+          "term": "India A Women",
+          "definition": "India A Women's National Team"
+        },
+        {
+          "term": "India Women",
+          "definition": "Senior Women's National Team"
+        },
+        {
+          "term": "India A Men",
+          "definition": "India A Men's National Team"
+        }
+      ],
+      "explanation": "India U-19 Men corresponds to the Under-19 Men's National Team, India A Women to India A Women's National Team, India Women to Senior Women's National Team, and India A Men to India A Men's National Team."
+    },
+    "fill_blank": {
+      "question": "The first played date for cricket in India is recorded as ___",
+      "correct_answer": "1721",
+      "explanation": "The first played date for cricket in India is recorded as 1721."
+    },
+    "chunk_index": 0,
+    "chunk_preview": "Cricket in India\nNarendra Modi Stadium in Ahmedabad, Gujarat\nCountry\nIndia\nGoverning body Board of Control for Cricket in\nIndia\nNational team(s) India Men\nIndia Women\nIndia U-19 Men\nIndia U-19 Women\nI..."
+  },
+  {
+    "topic": "Cricket Regulations in India",
+    "difficulty": "Intermediate",
+    "mcq": {
+      "question": "Which organization is the governing body of Indian cricket?",
+      "options": [
+        "ICC",
+        "BCCI",
+        "ECB",
+        "CA"
+      ],
+      "correct_answer": "BCCI",
+      "explanation": "The Board of Control for Cricket in India (BCCI) is the governing body of Indian cricket."
+    },
+    "true_false": {
+      "question": "Cricket is not a popular sport in India.",
+      "correct_answer": "False",
+      "explanation": "The statement is False. Cricket is the most popular sport in India."
+    },
+    "matching": {
+      "question": "Match the cricket tournament with its format:",
+      "pairs": [
+        {
+          "term": "Deodhar Trophy",
+          "definition": "List A Cricket"
+        },
+        {
+          "term": "CK Nayudu Trophy",
+          "definition": "First Class Cricket"
+        },
+        {
+          "term": "Syed Mushtaq Ali Trophy",
+          "definition": "T20 Cricket"
+        }
+      ],
+      "explanation": "Deodhar Trophy is a List A Cricket tournament, CK Nayudu Trophy is a First Class Cricket tournament, and Syed Mushtaq Ali Trophy is a T20 Cricket tournament."
+    },
+    "fill_blank": {
+      "question": "The Board of Control for Cricket in India conducts all ___ tournaments.",
+      "correct_answer": "domestic",
+      "explanation": "The BCCI conducts all domestic tournaments in India."
+    },
+    "chunk_index": 1,
+    "chunk_preview": "Deodhar Trophy\nSenior Women's One Day Trophy\nSenior Women's One Day\nChallenger Trophy\nT20 Cricket\nSyed Mushtaq Ali Trophy\nSenior Women's T20 Trophy\nSenior Women's T20 Challenger\nTrophy\nU-23 Cricket Co..."
+  }
+]

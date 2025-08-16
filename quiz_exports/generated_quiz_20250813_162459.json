@@ -1,0 +1,137 @@
+[
+  {
+    "topic": "Cricket in India",
+    "difficulty": "Intermediate",
+    "mcq": {
+      "question": "Which stadium in Ahmedabad, Gujarat was recently renamed as Narendra Modi Stadium?",
+      "options": [
+        "Wankhede Stadium",
+        "Eden Gardens",
+        "Feroz Shah Kotla",
+        "Sardar Patel Stadium"
+      ],
+      "correct_answer": "Sardar Patel Stadium",
+      "explanation": "The Sardar Patel Stadium in Ahmedabad, Gujarat was renamed as Narendra Modi Stadium."
+    },
+    "true_false": {
+      "question": "India has national teams for Men, Women, U-19 Men, U-19 Women, A Men, and A Women.",
+      "correct_answer": "True",
+      "explanation": "India has national teams for Men, Women, U-19 Men, U-19 Women, A Men, and A Women."
+    },
+    "matching": {
+      "question": "Match the following cricket competitions with their respective categories:",
+      "pairs": [
+        {
+          "term": "Ranji Trophy",
+          "definition": "First Class Cricket"
+        },
+        {
+          "term": "Vijay Hazare Trophy",
+          "definition": "List A Cricket"
+        },
+        {
+          "term": "Syed Mushtaq Ali Trophy",
+          "definition": "T20 Cricket"
+        }
+      ],
+      "explanation": "Ranji Trophy belongs to First Class Cricket, Vijay Hazare Trophy is under List A Cricket, and Syed Mushtaq Ali Trophy is associated with T20 Cricket."
+    },
+    "fill_blank": {
+      "question": "The first recorded cricket match in India took place in the year ___",
+      "correct_answer": "1721",
+      "explanation": "The first recorded cricket match in India took place in the year 1721."
+    },
+    "chunk_index": 0,
+    "chunk_preview": "Cricket in India\nNarendra Modi Stadium in Ahmedabad, Gujarat\nCountry\nIndia\nGoverning body Board of Control for Cricket in\nIndia\nNational team(s) India Men\nIndia Women\nIndia U-19 Men\nIndia U-19 Women\nI..."
+  },
+  {
+    "topic": "Cricket in India",
+    "difficulty": "Intermediate",
+    "mcq": {
+      "question": "Which organization is the governing body of Indian cricket?",
+      "options": [
+        "FIFA",
+        "BCCI",
+        "ICC",
+        "NFL"
+      ],
+      "correct_answer": "b",
+      "explanation": "The Board of Control for Cricket in India (BCCI) is the governing body of Indian cricket."
+    },
+    "true_false": {
+      "question": "The Indian Premier League is a Twenty20 cricket tournament.",
+      "correct_answer": "True",
+      "explanation": "The Indian Premier League (IPL) is indeed a Twenty20 cricket tournament."
+    },
+    "matching": {
+      "question": "Match the following domestic cricket competitions in India with their formats:",
+      "pairs": [
+        {
+          "term": "Ranji Trophy",
+          "definition": "First Class Cricket"
+        },
+        {
+          "term": "Vijay Hazare Trophy",
+          "definition": "List A Cricket"
+        },
+        {
+          "term": "CK Nayudu Trophy",
+          "definition": "4 day format"
+        }
+      ],
+      "explanation": "The Ranji Trophy is played in the First Class format, the Vijay Hazare Trophy is List A Cricket, and the CK Nayudu Trophy is played in the 4 day format."
+    },
+    "fill_blank": {
+      "question": "The Board of Control for Cricket in India conducts all ___ tournaments.",
+      "correct_answer": "domestic",
+      "explanation": "The BCCI conducts all domestic tournaments in India."
+    },
+    "chunk_index": 1,
+    "chunk_preview": "Senior Women's T20 Challenger\nTrophy\nU-23 Cricket Competition:\nFirst Class Cricket\nCK Nayudu Trophy (4 day format)\nList A Cricket\nCricket in India\nCricket is the most popular sport in India. It is pla..."
+  },
+  {
+    "topic": "Indian Cricket and Premier Leagues",
+    "difficulty": "Intermediate",
+    "mcq": {
+      "question": "Which tournament is considered the biggest cricketing league in the world?",
+      "options": [
+        "Challenger Trophy",
+        "Women's Premier League",
+        "Indian Premier League",
+        "ICC World Cup"
+      ],
+      "correct_answer": "Indian Premier League",
+      "explanation": "The Indian Premier League (IPL) is one of the biggest sporting leagues and the biggest cricketing league in the world."
+    },
+    "true_false": {
+      "question": "International cricket in India follows a consistent pattern similar to England.",
+      "correct_answer": "False",
+      "explanation": "Unlike England, Indian cricket does not follow a consistent pattern of touring other countries during winter and playing at home during summer."
+    },
+    "matching": {
+      "question": "Match the ICC tournament with the number of times Indian cricket team has won it:",
+      "pairs": [
+        {
+          "term": "ICC World Cup",
+          "definition": "2 times"
+        },
+        {
+          "term": "ICC World Twenty20",
+          "definition": "2 times"
+        },
+        {
+          "term": "ICC Champion's Trophies",
+          "definition": "3 times"
+        }
+      ],
+      "explanation": "The Indian cricket team has won the ICC World Cup and ICC World Twenty20 twice each, and the ICC Champion's Trophies three times."
+    },
+    "fill_blank": {
+      "question": "In 2023, a similar league for females, the Women's Premier League (WPL), was launched by the Indian Premier League for ________.",
+      "correct_answer": "females",
+      "explanation": "The Women's Premier League (WPL) was launched for females as a similar league to the Indian Premier League."
+    },
+    "chunk_index": 2,
+    "chunk_preview": "Challenger Trophy. The Indian Premier League, a Twenty20 tournament where various city-based\nfranchises compete in a style similar to American football, is one of the biggest sporting leagues and\nthe ..."
+  }
+]
